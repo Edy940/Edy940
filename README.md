@@ -1,4 +1,4 @@
-# Hi, I'm Ed Wander Silva!
+# Hi, I'm Ed Wander Alves!
 📖 I am an MBA student in data science at the University of São Paulo - USP, located in São Paulo, Brazil..
 
 📚 Have PHP as my favorite and "dominant" language and knowledge of Asp.net, but I also have a certain domain with C#, SQLServer, HTML / CSS and Javascript.
