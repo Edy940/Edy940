@@ -1,7 +1,7 @@
 # Hi, I'm Ed Wander Alves!
 📖 I am an  student located in São Paulo, Brazil..
 
-📚 Have C# as my favorite and "dominant" language and knowledge of Asp.net, but I also have a certain domain with C#, SQLServer, HTML / CSS and Javascript.
+📚 Considero o C# como minha linguagem preferida e principal, com conhecimento em Asp.net. Além disso, tenho experiência sólida em PHP, SQLServer, HTML/CSS,Javascript e SQL
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edy940)](https://github.com/Edy940)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ed-wander-alves-da-silva-731a20a0//)](https://www.linkedin.com/in/ed-wander-alves-da-silva-731a20a0/)
