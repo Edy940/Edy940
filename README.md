@@ -1,10 +1,10 @@
 # Olá, me chamo Wander Alves!
 📖 I am an  student located in São Paulo, Brazil..
 
-📚 Considero o C# como minha linguagem preferida e principal, com conhecimento em Asp.NetCore, Dot.Net. Além disso, tenho experiência  em PHP,SQL, HTML/CSS,Javascript.  
+📚 Proficiência em PHP, com conhecimento em Asp.NetCore, Dot.Net. Além disso, tenho experiência  em C#,SQL, HTML/CSS,Javascript.  
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Edy940)](https://github.com/Edy940)
-[![Linkedin Badge](https://www.linkedin.com/in/ed-wander-silva-731a20a0)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ed-wander-silva-731a20a0/)
 [![Gmail Badge](https://img.shields.io/badge/edwandersilva@gmail.com-3f4961?style=flat-square&labelColor=3f4961&logo=Gmail&logoColor=white&link=mailto:edwandersilva@gmail.com)](mailto:edwandersilva@gmail.com)
 
 
